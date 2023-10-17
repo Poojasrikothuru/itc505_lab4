@@ -1,0 +1,27 @@
+body {
+  background-color: #f6faff;
+}
+p,
+li {
+  margin-bottom: 0.2rem;
+  font-size: 1.2em;
+  text-align: justify;
+  text-justify: inter-word;
+}
+section {
+  margin: 0 0 30px;
+  padding: 0 20px;
+  background-color: #fff;
+  box-shadow: 0 0 30px rgba(1, 41, 112, 0.1);
+  min-height: 1368px;
+}
+.right {
+  text-align: right;
+}
+.center {
+  text-align: center;
+}
+.pagelength {
+  position: relative;
+  top: 700px;
+}
